@@ -12,4 +12,4 @@ python app.py
 
 Currently, the application only supports detection of A, B and L signs.
 
-Built with starter code from: https://www.youtube.com/watch?v=MJCSjXepaAM&t=2s (https://github.com/computervisioneng/sign-language-detector-python)
+Detection model built with starter code from: https://www.youtube.com/watch?v=MJCSjXepaAM&t=2s (https://github.com/computervisioneng/sign-language-detector-python)
